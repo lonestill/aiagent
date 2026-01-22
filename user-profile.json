@@ -1,0 +1,37 @@
+{
+  "identity": {
+    "name": "",
+    "phone": "",
+    "email": ""
+  },
+  "locations": {
+    "home": {
+      "address": "",
+      "city": "",
+      "apartment": "",
+      "floor": "",
+      "entrance": "",
+      "intercom": ""
+    },
+    "work": {
+      "address": "",
+      "city": ""
+    }
+  },
+  "preferences": {
+    "food": {
+      "dislikes": [],
+      "likes": [],
+      "dietary_restrictions": [],
+      "budget_max": 2000
+    },
+    "delivery": {
+      "prefer_free_delivery": true,
+      "default_tip_percent": 0
+    }
+  },
+  "payment": {
+    "preferred_method": "card",
+    "saved_cards": []
+  }
+}
